@@ -100,4 +100,3 @@
 - Test anything that is run in the browser
 - E2E tests often replace integration testing
 - Test user interaction within the application
-- 
